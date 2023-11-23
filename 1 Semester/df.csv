@@ -1,4 +1,4 @@
-df
+df,,,,,,,,,,,,,,,,,,,
 Code,Country,Sample?,Impute,logYL,logKL,alogKY,School,logHL,logA,logL,Mining,EcOrg,SocInf,YrsOpen,GADP,EngFrac,EurFrac,log(Frank,Latitude
 DZA,Algeria,1,1,9.35998,10.30679,0.47341,2.39,0.32026,8.56631,15.49508,0.053,0,0.26467,0,0.529,0,0.006,2.637,36.72
 AGO,Angola,1,1,7.06252,6.55136,-0.25558,3.09874,0.41523,6.90287,15.27232,0.268,0,0.21333,0,0.427,0,0,2.443,-8.843
