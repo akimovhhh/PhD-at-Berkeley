@@ -1,0 +1,29 @@
+\begin{thebibliography}{8}
+\newcommand{\enquote}[1]{``#1''}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[\protect\citeauthoryear{Areeda and Turner}{Areeda and Turner}{1975}]{Areeda1975}
+\textsc{Areeda, P. and D.~F. Turner} (1975): \enquote{Predatory Pricing and Related Practices under Section 2 of the Sherman Act,} \emph{Harvard Law Review}, 88, 697--733.
+
+\bibitem[\protect\citeauthoryear{Backus, Conlon, and Sinkinson}{Backus et~al.}{2021}]{Backus2021}
+\textsc{Backus, M., C.~Conlon, and M.~Sinkinson} (2021): \enquote{Common Ownership and Competition in the Ready-To-Eat Cereal Industry *,} .
+
+\bibitem[\protect\citeauthoryear{Benoit}{Benoit}{1984}]{Benoit1984}
+\textsc{Benoit, J.-P.} (1984): \enquote{Financially Constrained Entry in a Game with Incomplete Information,} \emph{The RAND Journal of Economics}, 15, 490--499.
+
+\bibitem[\protect\citeauthoryear{Bolton, Brodley, and Riordan}{Bolton et~al.}{2000}]{Bolton2000}
+\textsc{Bolton, P., J.~F. Brodley, and M.~H. Riordan} (2000): \enquote{Predatory pricing: strategic theory and legal policy,} \emph{Georgetown Law Journal}, 88, 88--2239.
+
+\bibitem[\protect\citeauthoryear{Fudenberg and Tirole}{Fudenberg and Tirole}{1985}]{Fudenberg1985}
+\textsc{Fudenberg, D. and J.~Tirole} (1985): \enquote{Predation without reputation,} .
+
+\bibitem[\protect\citeauthoryear{Fudenberg and Tirole}{Fudenberg and Tirole}{1986}]{Fudenberg1986}
+---\hspace{-.1pt}---\hspace{-.1pt}--- (1986): \enquote{A "Signal-Jamming" Theory of Predation,} \emph{The RAND Journal of Economics}, 17, 366--376.
+
+\bibitem[\protect\citeauthoryear{McGee}{McGee}{1958}]{McGee1958}
+\textsc{McGee, J.~S.} (1958): \enquote{Predatory Price Cutting: The Standard Oil (N. J.) Case,} \emph{The Journal of Law and Economics}, 1, 137--169.
+
+\bibitem[\protect\citeauthoryear{Ordover and Saloner}{Ordover and Saloner}{1989}]{Ordover1989}
+\textsc{Ordover, J.~A. and G.~Saloner} (1989): \emph{Predation, Monopolization, and Antitrust}, 1 ed.
+
+\end{thebibliography}
